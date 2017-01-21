@@ -1,6 +1,6 @@
 {
   "name": "wonderful",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A bunch of nice words and phrases to describe someone!",
   "main": "index.js",
   "scripts": {
