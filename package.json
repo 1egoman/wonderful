@@ -1,0 +1,21 @@
+{
+  "name": "wonderful",
+  "version": "1.0.0",
+  "description": "A bunch of nice words and phrases to describe someone!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepublish": "make build"
+  },
+  "keywords": [
+    "compliment",
+    "nice",
+    "nice words",
+    "lovely",
+    "amazing",
+    "adjective",
+    "description"
+  ],
+  "author": "Ryan Gaus",
+  "license": "MIT"
+}
